@@ -1,7 +1,7 @@
 <h1 align="center">
     Project: jsfDemo
     <h1 align="center">
-    <img alt="imagem-duke" title="Imagem Duke" src="../../../.github/duke.png" width="260px" />
+    <img alt="imagem-duke" title="Imagem Duke" src="../../../.github/duke.png" width="100px" />
     </h1>
     <h3 align="center">Simple example given in the field of Technologies for WEB Development.</h3>
 </h1>
