@@ -1,5 +1,5 @@
 <h1 align="center">
-    Project: jsfDemo
+    Project: jsfDemo by Alexandre Sobota
     <h1 align="center">
     <img alt="imagem-duke" title="Imagem Duke" src="../../../.github/duke.png" width="100px" />
     </h1>
