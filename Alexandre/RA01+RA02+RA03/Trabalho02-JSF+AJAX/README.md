@@ -28,6 +28,14 @@ The helloAjax application returns a message with a username entered in the field
   </div>
 </div>
 
+<div style="display: flex">
+  <div align="center">
+    <strong style="font-size: 18px">Ajax-Home-Final-Version</strong>
+    <h1 align="center" style="margin-right: 28px">
+      <img alt="ajax-home" title="Ajax-Home-Final-Version" src="../../../.github/ajax-home-v2.png" width="580px" />
+    </h1>
+  </div>
+
 
 <br>
 <br>
