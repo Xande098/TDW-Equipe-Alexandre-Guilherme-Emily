@@ -1,1 +1,1 @@
-<h1>Formativa: JSF Exemplo Simples</h1>
+Made with :muscle: by Guilherme Koblitz :wave:
