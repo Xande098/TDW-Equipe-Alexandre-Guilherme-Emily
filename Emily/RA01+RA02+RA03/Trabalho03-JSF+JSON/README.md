@@ -1,5 +1,5 @@
 <h1 align="center">
-    Project: jsonpmodel by Alexandre Sobota
+    Project: jsonpmodel by Emily Saraiva
     <h1 align="center">
     <img alt="imagem-jsonpmodel-logo" title="Imagem jsonpmodel" src="../../../.github/jsonpmodel-logo.png" width="150px" />
     </h1>
@@ -63,4 +63,4 @@ The application jsonpmodel demonstrates in a simple way how a form is converted 
 
 ---
 
-Made with ♥ by Alexandre Sobota :wave: [Get in touch!](https://www.linkedin.com/in/alexandre-sobota)
+by Emily Saraiva :wave: [Get in touch!](https://www.linkedin.com/in/emily-saraiva/)
